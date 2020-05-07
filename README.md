@@ -4,17 +4,17 @@ Data-driven reservoir simulation in a large-scale hydrological and water resourc
 
 S. Turner, K. Doering, N. Voisin
 
-File naming convention: DamName_Experiment_ReservoirScheme
+File naming convention: `DamName_Experiment_ReservoirScheme`
 
 Experiment numbers are as described in the paper:
-1. Offline: observed inflows, storage set to observed
-2. Offline: observed inflows, storage allowed to depart from observed
-3. Online: LHM-simulated inflows, storage allowed to depart from observed
+- 1 - Offline: observed inflows, storage set to observed
+- 2 - Offline: observed inflows, storage allowed to depart from observed
+- 3 - Online: LHM-simulated inflows, storage allowed to depart from observed
 
 Reservoirs schemes are as described in the paper:
-A. Generic
-B. Data-driven (1-week inflow)
-C. Data-driven (Dynamic horizons)
+- A - Generic
+- B - Data-driven (1-week inflow)
+- C - Data-driven (Dynamic horizons)
 
 
 
