@@ -4,7 +4,7 @@ Data-driven reservoir simulation in a large-scale hydrological and water resourc
 
 S. Turner, K. Doering, N. Voisin
 
-File naming convention: `DamName_Experiment_ReservoirScheme`
+File naming convention: `DamDataSource_DamNameOrCode_Experiment_ReservoirScheme`
 
 Experiment numbers are as described in the paper:
 - 1 - Offline: observed inflows, storage set to observed
